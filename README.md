@@ -12,3 +12,6 @@
   - https://linux-kernel-labs.github.io/refs/heads/master/
 - Linux Insides
   - https://0xax.gitbooks.io/linux-insides/content/
+- Linux Weekly News
+  - quality news and informations about newly changed feature
+  - https://lwn.net/
