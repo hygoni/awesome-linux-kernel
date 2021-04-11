@@ -15,3 +15,9 @@
 - Linux Weekly News
   - quality news and informations about newly changed feature
   - https://lwn.net/
+- The Eudyptula Challenge
+  - http://eudyptula-challenge.org/
+  - a series of programming exercises for the Linux kernel
+  - this challenge is closed after since 2017 (T.T)
+  - but you can find 20 challenges link below
+  - https://github.com/agelastic/eudyptula
