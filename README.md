@@ -1,5 +1,8 @@
 # linux-kernel-awesome
 
+## The Linux Kernel Documentation
+- https://www.kernel.org/doc/html/latest/
+
 ## books
 - Linux Kernel Development
   - an overview of each subsystem
