@@ -4,10 +4,17 @@
 - https://www.kernel.org/doc/html/latest/
 
 ## books
+- Linux Kernel in a Nutshell
+  - explains how to configuring, building, installing, and customizing linux kernel
+  - this book is freely available at
+    - https://bootlin.com/community/kernel/lkn/
+    - http://www.kroah.com/lkn/
+
 - Linux Kernel Development
   - an overview of each subsystem
   - based on 2.6 kernel
   - https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468
+
 
 ## sites
 - Linux Kernel Labs
