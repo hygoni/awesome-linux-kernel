@@ -21,3 +21,5 @@
   - this challenge is closed after since 2017 (T.T)
   - but you can find 20 challenges link below
   - https://github.com/agelastic/eudyptula
+- Linux Kernel Workbook
+  - https://lkw.readthedocs.io/en/latest/index.html
