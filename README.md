@@ -33,3 +33,9 @@
   - https://github.com/agelastic/eudyptula
 - Linux Kernel Workbook
   - https://lkw.readthedocs.io/en/latest/index.html
+- EmbeTronicX
+  - AWESOME resources for
+    - Device Drivers
+    - RTOS
+    - Microcontrollers
+  - https://embetronicx.com/
