@@ -15,6 +15,13 @@
   - based on 2.6 kernel
   - https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468
 
+- Linux Device Drivers, Third Edition
+  - explains how to write Device Drivers in Linux Kernel
+  - based on 2.6 kernel
+  - It's quite dated, author has deep understanding of linux kernel so helpful for newbies
+  - this book is freely available at
+    - https://bootlin.com/community/kernel/ldd3/
+    - https://lwn.net/Kernel/LDD3/
 
 ## sites
 - Linux Kernel Labs
