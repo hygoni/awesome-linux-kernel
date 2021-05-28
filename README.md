@@ -6,6 +6,9 @@
 - documentation on development process will be helpful
 - https://www.kernel.org/doc/html/latest/process/
 
+## Newbie Stuff
+- 
+
 ## books
 - Linux Kernel in a Nutshell
   - explains how to configuring, building, installing, and customizing linux kernel
