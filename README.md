@@ -1,5 +1,9 @@
 # linux-kernel-awesome
 
+## Please contribute
+- Learning linux kernel sometimes feel like being in the dark.
+- It will be awesome if you contrbute this document!
+
 ## The Linux Kernel Documentation
 - https://www.kernel.org/doc/html/latest/
 - There are some documents here, but especially
