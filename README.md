@@ -2,6 +2,9 @@
 
 ## The Linux Kernel Documentation
 - https://www.kernel.org/doc/html/latest/
+- There are some documents here, but especially
+- documentation on development process will be helpful
+- https://www.kernel.org/doc/html/latest/process/
 
 ## books
 - Linux Kernel in a Nutshell
