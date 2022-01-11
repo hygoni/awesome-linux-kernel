@@ -32,6 +32,11 @@
   - this book is freely available at
     - https://bootlin.com/community/kernel/ldd3/
     - https://lwn.net/Kernel/LDD3/
+- Understanding the Linux Virtual Memory Manager
+  - Written by Mel Gorman, 2004.
+  - It's old (covers 2.4 and early version of 2.6 kernels) but nice introduction to virtual memory
+  - Available at
+    - https://pdos.csail.mit.edu/~sbw/links/gorman_book.pdf  
 
 ## sites
 - Linux Kernel Labs
