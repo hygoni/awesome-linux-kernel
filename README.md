@@ -4,6 +4,17 @@
 - Learning linux kernel sometimes feel like being in the dark.
 - It will be awesome if you contrbute this document!
 
+## Generic Operating System Stuff
+- Unix V6 Commentary
+  - https://cs3210.cc.gatech.edu/r/unix6.pdf
+  - As its name indicates, it explains Unix V6's source code.
+  - It's called "Lions Book"
+- XV6
+  - [xv6 x86 version (no longer maintained)](https://github.com/mit-pdos/xv6-public)
+  - [xv6 RISC-V version](https://github.com/mit-pdos/xv6-riscv)
+  - [xv6 Book](https://github.com/mit-pdos/xv6-book)
+  - Inspired by Lions Book, developed in MIT PDOS lab.
+
 ## The Linux Kernel Documentation
 - https://www.kernel.org/doc/html/latest/
 - There are some documents here, but especially
